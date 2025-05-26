@@ -1,10 +1,11 @@
-import React from 'react';
+
 
 const CategoryList = () => {
+    
     return (
-        <div>
-            <h2 className='text-6xl text-center'>Job Category List</h2>
-            
+        <div className='mt-10 '>
+            <h2 className='text-5xl text-center font-extrabold '>Job Category List</h2>
+            <p className="font-medium text-base text-gray-400 text-center mt-5">Explore thousands of job opportunities with all the information you need. Its your future</p>
         </div>
     );
 };

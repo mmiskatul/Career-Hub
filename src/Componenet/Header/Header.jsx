@@ -9,7 +9,7 @@ const Header = () => {
         <li><NavLink to='/blog'>Blog</NavLink></li>
     </>
     return (
-        <div className="navbar bg-base-100 shadow-sm">
+        <nav className="flex items-center  justify-center  shadow-sm mx-10 py-5">
             <div className="navbar-start">
                 <div className="dropdown">
                     <div tabIndex={0} role="button" className="btn btn-ghost md:hidden ">
@@ -21,7 +21,7 @@ const Header = () => {
                             {links}   
                     </ul>
                 </div>
-                <NavLink to='/' className="btn btn-ghost text-xl">CareerHub</NavLink>
+                <NavLink to='/' className=" text-3xl">CareerHub</NavLink>
             </div>
             <div className="navbar-center hidden md:flex lg:flex">
                 <ul className="menu menu-horizontal px-1">{links}</ul>
@@ -29,7 +29,7 @@ const Header = () => {
             <div className="navbar-end">
                 <NavLink to='/applyform' className="btn">Star Applying</NavLink>
             </div>
-        </div>
+        </nav>
     );
 };
 
