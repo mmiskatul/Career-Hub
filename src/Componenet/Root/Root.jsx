@@ -1,11 +1,12 @@
 import React from 'react';
 import { Outlet } from 'react-router-dom';
 import Footer from '../Footer/Footer';
+import Header from '../Header/Header';
 
 const Root = () => {
     return (
-        <div>
-            <h1>this is root</h1>
+        <div className=''>
+            <Header/>
             <Outlet/>
             <Footer/>
         </div>
