@@ -1,0 +1,182 @@
+[
+  {
+    "companyLogo": "https://logo.clearbit.com/google.com",
+    "jobTitle": "Technical Database Engineer",
+    "companyName": "Google LLC",
+    "jobType": "Remote",
+    "employmentType": "Full Time",
+    "location": "Dhaka, Bangladesh",
+    "salary": "100K - 150K",
+    "jobDescription": "Responsible for building scalable database systems for high-traffic applications.",
+    "jobResponsibility": "Manage, optimize, and troubleshoot database performance.",
+    "educationalRequirements": "Bachelor’s in Computer Science or related field.",
+    "experience": "2-3 Years",
+    "contact": {
+      "phone": "01750-00 00 00",
+      "email": "info@google.com",
+      "address": "Dhanmondi 32, Dhaka"
+    }
+  },
+  {
+    "companyLogo": "https://logo.clearbit.com/netflix.com",
+    "jobTitle": "Senior Product Designer",
+    "companyName": "Netflix",
+    "jobType": "Onsite",
+    "employmentType": "Full Time",
+    "location": "Dhaka, Bangladesh",
+    "salary": "100K - 150K",
+    "jobDescription": "Designing innovative product experiences with focus on usability and visuals.",
+    "jobResponsibility": "Collaborate with stakeholders to create user-centered designs.",
+    "educationalRequirements": "Bachelor’s degree in Design or relevant field.",
+    "experience": "3-4 Years",
+    "contact": {
+      "phone": "01751-11 11 11",
+      "email": "design@netflix.com",
+      "address": "Dhanmondi 32, Dhaka"
+    }
+  },
+  {
+    "companyLogo": "https://logo.clearbit.com/tesla.com",
+    "jobTitle": "Software Engineer",
+    "companyName": "Tesla",
+    "jobType": "Onsite",
+    "employmentType": "Full Time",
+    "location": "Dhaka, Bangladesh",
+    "salary": "90K - 140K",
+    "jobDescription": "Develop and maintain scalable software systems for automation.",
+    "jobResponsibility": "Code, review, and test modern embedded systems.",
+    "educationalRequirements": "Bachelor's in Software Engineering.",
+    "experience": "2+ Years",
+    "contact": {
+      "phone": "01752-22 22 22",
+      "email": "hr@tesla.com",
+      "address": "Banani, Dhaka"
+    }
+  },
+  {
+    "companyLogo": "https://logo.clearbit.com/meta.com",
+    "jobTitle": "AI Research Scientist",
+    "companyName": "Meta",
+    "jobType": "Remote",
+    "employmentType": "Full Time",
+    "location": "Dhaka, Bangladesh",
+    "salary": "120K - 180K",
+    "jobDescription": "Work on foundational models and intelligent systems.",
+    "jobResponsibility": "Build AI models, publish research, and test prototypes.",
+    "educationalRequirements": "PhD or Master’s in AI/ML.",
+    "experience": "4-5 Years",
+    "contact": {
+      "phone": "01753-33 33 33",
+      "email": "ai@meta.com",
+      "address": "Uttara, Dhaka"
+    }
+  },
+  {
+    "companyLogo": "https://logo.clearbit.com/amazon.com",
+    "jobTitle": "Cloud Solutions Architect",
+    "companyName": "Amazon AWS",
+    "jobType": "Remote",
+    "employmentType": "Full Time",
+    "location": "Dhaka, Bangladesh",
+    "salary": "110K - 160K",
+    "jobDescription": "Design scalable cloud solutions for enterprise clients.",
+    "jobResponsibility": "Work with teams to design and implement AWS infrastructure.",
+    "educationalRequirements": "Bachelor’s in IT or relevant field.",
+    "experience": "5 Years",
+    "contact": {
+      "phone": "01754-44 44 44",
+      "email": "cloud@amazon.com",
+      "address": "Gulshan, Dhaka"
+    }
+  },
+  {
+    "companyLogo": "https://logo.clearbit.com/apple.com",
+    "jobTitle": "iOS Developer",
+    "companyName": "Apple",
+    "jobType": "Onsite",
+    "employmentType": "Full Time",
+    "location": "Dhaka, Bangladesh",
+    "salary": "90K - 140K",
+    "jobDescription": "Develop high-performance iOS apps for Apple’s ecosystem.",
+    "jobResponsibility": "Maintain and improve existing iOS applications.",
+    "educationalRequirements": "Bachelor’s in Software Engineering.",
+    "experience": "3 Years",
+    "contact": {
+      "phone": "01755-55 55 55",
+      "email": "ios@apple.com",
+      "address": "Mohakhali, Dhaka"
+    }
+  },
+  {
+    "companyLogo": "https://logo.clearbit.com/microsoft.com",
+    "jobTitle": "Data Analyst",
+    "companyName": "Microsoft",
+    "jobType": "Remote",
+    "employmentType": "Full Time",
+    "location": "Dhaka, Bangladesh",
+    "salary": "80K - 130K",
+    "jobDescription": "Analyze and interpret large datasets to support business decisions.",
+    "jobResponsibility": "Create reports and dashboards using Power BI and Excel.",
+    "educationalRequirements": "Bachelor’s in Statistics or Data Science.",
+    "experience": "2 Years",
+    "contact": {
+      "phone": "01756-66 66 66",
+      "email": "data@microsoft.com",
+      "address": "Mirpur, Dhaka"
+    }
+  },
+  {
+    "companyLogo": "https://logo.clearbit.com/intel.com",
+    "jobTitle": "Embedded Systems Engineer",
+    "companyName": "Intel",
+    "jobType": "Onsite",
+    "employmentType": "Full Time",
+    "location": "Dhaka, Bangladesh",
+    "salary": "95K - 145K",
+    "jobDescription": "Design and test embedded systems for hardware platforms.",
+    "jobResponsibility": "Work with cross-functional teams to develop firmware.",
+    "educationalRequirements": "Bachelor’s in EEE or CSE.",
+    "experience": "3+ Years",
+    "contact": {
+      "phone": "01757-77 77 77",
+      "email": "embedded@intel.com",
+      "address": "Panthapath, Dhaka"
+    }
+  },
+  {
+    "companyLogo": "https://logo.clearbit.com/samsung.com",
+    "jobTitle": "UI/UX Designer",
+    "companyName": "Samsung",
+    "jobType": "Onsite",
+    "employmentType": "Full Time",
+    "location": "Dhaka, Bangladesh",
+    "salary": "85K - 135K",
+    "jobDescription": "Create beautiful and usable designs for mobile applications.",
+    "jobResponsibility": "Wireframing, prototyping, and user testing.",
+    "educationalRequirements": "Bachelor’s in Design or HCI.",
+    "experience": "2 Years",
+    "contact": {
+      "phone": "01758-88 88 88",
+      "email": "ux@samsung.com",
+      "address": "Farmgate, Dhaka"
+    }
+  },
+  {
+    "companyLogo": "https://logo.clearbit.com/ibm.com",
+    "jobTitle": "Cybersecurity Specialist",
+    "companyName": "IBM",
+    "jobType": "Remote",
+    "employmentType": "Full Time",
+    "location": "Dhaka, Bangladesh",
+    "salary": "105K - 155K",
+    "jobDescription": "Monitor and defend against cybersecurity threats.",
+    "jobResponsibility": "Implement secure protocols and audit systems.",
+    "educationalRequirements": "Bachelor’s in Cybersecurity.",
+    "experience": "4 Years",
+    "contact": {
+      "phone": "01759-99 99 99",
+      "email": "security@ibm.com",
+      "address": "Shahbagh, Dhaka"
+    }
+  }
+]
