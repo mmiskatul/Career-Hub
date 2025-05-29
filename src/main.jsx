@@ -10,6 +10,7 @@ import Statictics from './Componenet/Statictics/Statictics'
 import Blog from './Componenet/Blog/Blog'
 import Apply from './Componenet/Apply/Apply'
 import Errorpage from './Componenet/ErrorPage/Errorpage'
+import Jobdetails from './Componenet/FeatureJob/Jobdetails'
 
 const  router=createBrowserRouter([
     {
@@ -32,9 +33,14 @@ const  router=createBrowserRouter([
         },{
           path:'/applyform',
           element:<Apply/>
+        },{
+          path:'/job/:id',
+          element:<Jobdetails/>,
+          loader:()=>fetch('../jobs.json')
         }
       ]
     },
+    
 ]);
 
 createRoot(document.getElementById('root')).render(

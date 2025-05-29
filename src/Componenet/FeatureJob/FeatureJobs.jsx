@@ -1,9 +1,10 @@
 import React from 'react';
 import { CiLocationOn } from 'react-icons/ci';
 import { RiMoneyDollarCircleLine } from 'react-icons/ri';
+import { Link } from 'react-router-dom';
 
 const FeatureJobs = ({job}) => {
-    const {logo,job_title,company_name,remote_or_onsite,location,job_type,salary}=job;
+    const {id,logo,job_title,company_name,remote_or_onsite,location,job_type,salary}=job;
     return (
         <div className='flex flex-col items-start  border border-gray-500 px-10 py-8 rounded-xl '>
             <img className='size-12 mb-2' src={logo} alt={`${company_name} `}  />
@@ -24,7 +25,7 @@ const FeatureJobs = ({job}) => {
                 </h1>
 
              </div>
-             <button className='btn mt-5'>View Details</button>
+             <Link to={`/job/${id}`}><button className='btn mt-5'>View Details</button></Link>
 
         </div>
     );
